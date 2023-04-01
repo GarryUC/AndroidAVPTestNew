@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">AndroidAVPTest</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="home">Home</string>
+    <string name="home_detail">Home Detail</string>
+    <string name="click_to_navigate">Click to navigate</string>
+    <string name="title_activity_home_detail_fragment">HomeDetailFragment</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="name">Name</string>
+    <string name="active_status">Active Status</string>
+    <string name="cost_per_launch">Cost Per Launch</string>
+    <string name="success_rate_percent">Success Rate Percent</string>
+    <string name="description">Description</string>
+    <string name="wikipedia_link">Wikipedia Link</string>
+    <string name="no_image_found">No Image Found</string>
+    <string name="something_went_wrong">Something Went Wrong</string>
+    <string name="whoops">Whoops</string>
+    <string name="no_internet_connection">No Internet Connection</string>
+    <string name="height">Height</string>
+    <string name="diameter">Diameter</string>
+    <string name="engine_count">Engine Count</string>
+    <string name="inches">inches</string>
+</resources>
